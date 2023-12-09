@@ -12,7 +12,7 @@
 
 # 👨🏻‍💻 Works Overview:
 
-Within my capacity, I utilize ReactJS to craft dynamic interfaces, Tailwind CSS for efficient styling, and Node.js with Express for server-side operations. MongoDB and Firebase are employed for structured data storage and real-time functionalities. Additionally, I implement JWT for secure authentication and DaisyUI to enhance the design and functionality of the user interface, ensuring a comprehensive and responsive user interaction.
+### Within my capacity, I utilize ReactJS to craft dynamic interfaces, Tailwind CSS for efficient styling, and Node.js with Express for server-side operations. MongoDB and Firebase are employed for structured data storage and real-time functionalities. Additionally, I implement JWT for secure authentication and DaisyUI to enhance the design and functionality of the user interface, ensuring a comprehensive and responsive user interaction.
 
 ## 👥 Connect With Me
 <p>
