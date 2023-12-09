@@ -1,5 +1,5 @@
 
-<img width="100%" src="https://res.cloudinary.com/dqwokp3ms/image/upload/v1702063409/github-header-image_4_eobpjm.png" alt="my banner">
+<img width="100%" src="https://res.cloudinary.com/dqwokp3ms/image/upload/v1702114986/pamygxymmzhzmbheymsb.png" alt="my banner">
 
 
 # 💻 Tech Stack:
